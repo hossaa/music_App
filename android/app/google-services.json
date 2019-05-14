@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "785253804276",
+    "firebase_url": "https://music-app-334f8.firebaseio.com",
+    "project_id": "music-app-334f8",
+    "storage_bucket": "music-app-334f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785253804276:android:37cd6b23122dd9f5",
+        "android_client_info": {
+          "package_name": "com.example.just_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHA2GEVvEN4IjMoo3V9HhIJRawlPvxjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785253804276-klbsd5e0oasm1stsp80da3g2m902gskv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
